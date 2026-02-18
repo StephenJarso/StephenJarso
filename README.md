@@ -20,7 +20,7 @@ I'm a passionate learner with 5+ years of experience across multiple programming
 
 **Languages**  
 - 🎯 **Go** (Currently Learning - 3 months)  
-- 📱 **Flutter/Dart** (5+ years experience)  
+- 📱 **Flutter/Dart** (3+ years experience)  
 - ☕ **Java** (5+ years experience - rusty but ready to refresh)  
 - 🖥️ **C** (5+ years experience - foundational knowledge)
 
