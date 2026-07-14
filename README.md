@@ -101,8 +101,9 @@ Full-stack Facebook-style social platform built from scratch: session-based auth
 
 <div align="center">
 
-![Stephen Jarso's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&theme=dark&hide_border=true)
+![Stats](https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github_dark/0-profile-details.svg)
+![Top Languages](https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github_dark/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github_dark/2-most-commit-language.svg)
 
 </div>
 
