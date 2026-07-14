@@ -115,9 +115,11 @@ Full-stack Facebook-style social platform built from scratch: session-based auth
 
 </div>
 
-> 🐍 **Contribution Snake** — add this for a live animated contribution graph in your header. It updates itself daily via GitHub Actions once enabled (setup notes below).
->
-> `<img src="https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
