@@ -1,4 +1,4 @@
-name: Generate Profile Stat Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
@@ -8,13 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: StephenJarso
-          theme: github_dark
-          card_width: 550
-        # available card types this action generates into the output branch:
-        #   profile-details, repos-per-language, most-commit-language,
-        #   stats, productive-time
+          USERNAME: StephenJarso
+          # BRANCH_NAME defaults to main, which is what we want
+          UTC_OFFSET: 3 # Nairobi (EAT, UTC+3)
