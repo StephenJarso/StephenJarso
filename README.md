@@ -1,64 +1,107 @@
-# Hey there, I'm Stephen Jarso 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm an **aspiring DevOps engineer** on a journey to master cloud infrastructure, containerization, and modern deployment practices. Currently diving deep into **Go** while leveraging my diverse programming background.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:F05032&height=220&section=header&text=Stephen%20Jarso&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-## 🎯 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-Stack+Engineer+%7C+Go+%2B+Next.js;I+build+apps+the+way+a+network+engineer+thinks+about+packets;Currently%3A+Real-time+systems+%2C+Bitcoin%2FLightning+%2C+Rust" alt="Typing SVG" />
+</a>
 
-I'm a passionate learner with 5+ years of experience across multiple programming languages and frameworks. While I've worked with Flutter, Java, and C in the past, I'm now focused on building my DevOps expertise. I'm excited about automation, cloud technologies, and creating reliable infrastructure solutions.
+<p>
+  <a href="https://www.linkedin.com/in/stephenjarso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/_sjarso"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/stephen_jarso"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=StephenJarso&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-**Currently**: Learning Go (3 months in) & exploring DevOps tools and practices  
-**Goal**: Become a skilled DevOps engineer and contribute to modern infrastructure projects
+</div>
 
-## 💼 Professional Journey
+---
 
-- **5+ years** of programming experience with Flutter/Dart, Java, and C
-- **3 months** focused learning in Go language
-- **Aspiring DevOps Engineer** – transitioning into infrastructure and deployment automation
-- Committed to continuous learning and staying current with industry practices
+## Who I Am
 
-## 🛠️ Technical Skills
+Most full-stack developers stop thinking about the network once `fetch()` returns a 200. I don't. I got here through the OSI model, routing, and topology first — and it changes how I build software: I design for latency, failure, and the messy reality of real networks, not just the happy path in a demo.
 
-**Languages**  
-- 🎯 **Go** (Currently Learning - 3 months)  
-- 📱 **Flutter/Dart** (3+ years experience)  
-- ☕ **Java** (5+ years experience - rusty but ready to refresh)  
-- 🖥️ **C** (5+ years experience - foundational knowledge)
+Right now that shows up in two places:
 
-**DevOps & Infrastructure (In Progress)**  
-- Docker & Containerization  
-- Kubernetes basics  
-- CI/CD pipelines  
-- Git & Version Control  
-- Linux/Unix systems
+- 🕸️ **Real-time, distributed systems** — building a Facebook-style social platform (Next.js 15 + Go + SQLite) with session auth, WebSocket chat, live notifications, and a follower graph, at Zone01 Kisumu.
+- ⚡ **Bitcoin & Lightning** — genuinely into how Bitcoin's P2P network and payment rails work, especially for connectivity-constrained environments, because "the network is down" shouldn't mean "money stops moving."
 
-**Tools & Technologies**  
-- VS Code, Terminal  
-- Git/GitHub  
-- Docker (learning)  
-- Linux command line
+**Learning Rust next**, specifically to go one layer deeper — from *using* networked systems to understanding what's happening at the memory and protocol level underneath them.
 
-## 🚀 What I'm Working On
+```
+Networking Fundamentals  →  Full-Stack Web Apps  →  Distributed/Real-Time Systems  →  Rust & Low-Level Systems
+     (the "why")               (the "what")              (the "how, at scale")           (the "how, at the metal")
+```
 
-I'm actively building my DevOps portfolio with upcoming projects that will showcase:  
-- Infrastructure automation scripts in Go  
-- Docker containerization examples  
-- CI/CD pipeline implementations  
-- Cloud deployment configurations
+- 🎯 **Niche:** Full-stack engineer who designs applications with network-engineer instincts — real-time systems, protocol-level thinking, Bitcoin/Lightning payment rails.
+- 🌱 **Learning:** Rust (systems programming), advanced networking (beyond OSI/routing/topology — now into congestion control, NAT traversal, and P2P protocol design).
+- 🤝 **Open to:** collaborating on real-time apps, Go/Next.js projects, Bitcoin/Lightning tooling, and open-source networking tools.
+- 💬 **Ask me about:** Go, Next.js App Router, WebSockets, Docker, networking fundamentals, or how Bitcoin's P2P network actually works.
 
-*Coming soon: Project showcase section!* 📋
+---
 
-## 🌱 Currently Learning
+## Tech Stack
 
-- **Primary Focus**: Go programming language for DevOps and backend development  
-- **Secondary Focus**: DevOps tools and practices (Docker, Kubernetes, CI/CD)  
-- **Goal**: Mastering cloud-native infrastructure and automation
+<div align="center">
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-learning-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Data & Backend**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Infra, Tools & Design**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Networking**
+
+![OSI Model](https://img.shields.io/badge/OSI%20Model-4B0082?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing%20%26%20Topology-4B0082?style=for-the-badge)
+![Bitcoin](https://img.shields.io/badge/Bitcoin%20%2F%20Lightning-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+</div>
+
+---
+
+## Featured Work
+
+### 🌐 Social Network Platform
+Full-stack Facebook-style social platform built from scratch: session-based auth, follower/follow-request graph, groups with events & RSVPs, three-tier post privacy, real-time WebSocket chat, and a live notification system.
+
+**Stack:** Next.js 15 (App Router) · Go · SQLite · WebSockets
+
+*More coming as I ship — this section grows with every project, including upcoming Bitcoin/Lightning tooling.*
+
+---
 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  
-![Stephen Jarso's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&theme=dark&hide_border=true)
 
+![Stephen Jarso's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -71,78 +114,22 @@ I'm actively building my DevOps portfolio with upcoming projects that will showc
 
 </div>
 
-## 🔗 Connect With Me
-
-I'd love to connect and collaborate! Find me on:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenjarso/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_sjarso)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/stephen_jarso)
-
-</div>
-
-## 💬 Let's Collaborate
-
-I'm always eager to:
-- 🤝 Collaborate on DevOps and Go projects
-- 📚 Learn from experienced developers
-- 🐛 Contribute to open-source projects
-- 💡 Discuss infrastructure, automation, and best practices
-
-Feel free to reach out if you want to discuss DevOps, Go programming, or tech in general!
+> 🐍 **Contribution Snake** — add this for a live animated contribution graph in your header. It updates itself daily via GitHub Actions once enabled (setup notes below).
+>
+> `<img src="https://raw.githubusercontent.com/StephenJarso/StephenJarso/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
 
 ---
 
-## 🎓 Learning Path
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Aspiring DevOps Engineer: Stephen Jarso's Journey          │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  Foundation (5+ years)                                       │
-│  └─ Flutter/Dart ✓                                          │
-│  └─ Java ✓                                                  │
-│  └─ C ✓                                                     │
-│                                                               │
-│  Current Focus (In Progress)                                │
-│  └─ Go Programming 🚀 (3 months)                           │
-│  └─ Docker & Containerization 🐳                           │
-│  └─ Kubernetes Basics ☸️                                   │
-│  └─ CI/CD Pipelines 🔄                                     │
-│                                                               │
-│  Next Targets                                                │
-│  └─ Cloud Platforms (AWS/GCP/Azure)                        │
-│  └─ Infrastructure as Code (IaC)                           │
-│  └─ Monitoring & Logging                                    │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## 🌟 Featured Tech Stack
+## Let's Build Something
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+I'm actively looking to collaborate on **real-time systems, Go/Next.js projects, and Bitcoin/Lightning tooling.** If any of that overlaps with what you're building, reach out.
 
-</div>
+<a href="https://www.linkedin.com/in/stephenjarso/"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/_sjarso"><img src="https://img.shields.io/badge/DM%20Me-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://dev.to/stephen_jarso"><img src="https://img.shields.io/badge/Read%20My%20Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
----
-
-> **Fun fact**: I'm on a mission to transform my 5+ years of diverse programming experience into deep DevOps expertise. Every day is a learning opportunity! 🚀
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=StephenJarso&color=blue&style=flat-square)
-
-**Last updated**: February 2026
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05032,100:00ADD8&height=100&section=footer" width="100%"/>
 
 </div>
