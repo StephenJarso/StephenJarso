@@ -79,10 +79,6 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 
 ## GitHub stats
 
-![Top Langs](./assets/top-langs.svg)
-
-![Stats](./assets/stats.svg)
-
 Current streak:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=StephenJarso&theme=react-dark)
 
