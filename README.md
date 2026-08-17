@@ -70,8 +70,9 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
   https://github.com/StephenJarso/go-dsa  
   https://github.com/StephenJarso/go-mastery
 
-- golang/go — contribution to the Go language repository (open PR: cmd/compile: fix typographical errors in comments).  
-  https://github.com/golang/go/pull/80623
+- golang/go — contribution to the Go language repository
+  - Open PR: cmd/compile: fix typographical errors in comments — https://github.com/golang/go/pull/80623
+  - Merged PRs authored by you in golang/go: none found (no merged PRs to date)
 
 (Full list of merged PRs and external contributions is available on your GitHub activity — I can add more items or a condensed timeline if you want.)
 
