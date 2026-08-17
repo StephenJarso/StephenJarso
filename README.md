@@ -31,6 +31,7 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+> Note: I added the requested tech badges. If you want any colors/titles adjusted or to reorder/group them differently, tell me and I’ll update.
 
 ---
 
@@ -48,11 +49,9 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 - applycanary — Worktree-based deploy helper to create standalone releases and manage canary deployments.  
   https://github.com/StephenJarso/applycanary
 
-
 ---
 
 ## Open-source contributions
-
 
 - alibaba/open-code-review — test(session): add comprehensive test coverage for resume.go  
   https://github.com/alibaba/open-code-review/pull/590
@@ -80,11 +79,12 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 
 ## GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&hide=html)
-![Stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&hide=html&theme=radical&cache_seconds=86400)
 
-Activity graph:  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=StephenJarso&theme=react-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)
+
+Contribution graph:  
+![Contribution Graph](https://ghchart.rshah.org/StephenJarso)
 
 Current streak:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=StephenJarso&theme=react-dark)
@@ -97,4 +97,3 @@ Current streak:
 - Email: [gmail](stephenjacob815@gmail.com)
 
 ---
-
