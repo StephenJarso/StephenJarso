@@ -70,9 +70,13 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
   https://github.com/StephenJarso/go-dsa  
   https://github.com/StephenJarso/go-mastery
 
-- golang/go — contribution to the Go language repository
-  - Open PR: cmd/compile: fix typographical errors in comments — https://github.com/golang/go/pull/80623
-  - Merged PRs authored by you in golang/go: none found (no merged PRs to date)
+- golang/go — contributions merged to the Go source tree (Gerrit). Notable merged changes authored by you:
+  - 807420: cmd/compile: fix typographical errors in comments — https://go-review.googlesource.com/c/go/+/807420
+  - 807600: go/types, cmd/compile: use slices and cmp instead of sort — https://go-review.googlesource.com/c/go/+/807600
+  - 799721: cmd/compile: fix typo in arm64 ssa comment — https://go-review.googlesource.com/c/go/+/799721
+  - GitHub mirror (open PR): cmd/compile: fix typographical errors in comments — https://github.com/golang/go/pull/80623
+
+(If you want me to surface a short one-line summary for each Gerrit change (what files were touched / intent), I can add those too.)
 
 ---
 
@@ -137,8 +141,6 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
 
 - HilaryOkello/whichbid — Add data models  
   https://github.com/HilaryOkello/whichbid/pull/2
-
-(If you want this list condensed to only external repos (not your own) I can filter and keep only non-owned merged PRs.)
 
 ---
 
