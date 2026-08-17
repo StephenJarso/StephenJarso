@@ -94,7 +94,7 @@ Current streak:
 ## Contact & socials
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephenjarso/)
-- Email: (gmail)[stephenjacob815@gmail.com]
+- Email: [gmail](stephenjacob815@gmail.com)
 
 ---
 
