@@ -31,13 +31,10 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-> Note: I added the requested tech badges. If you want any colors/titles adjusted or to reorder/group them differently, tell me and I’ll update.
 
 ---
 
 ## Featured projects
-
-(Selected from your public repositories — focused on projects with clear functionality and recent activity.)
 
 - secure_push — Developer-first security scanner that blocks secrets, misconfigurations, and unsafe AI-generated code at commit time and in CI.  
   https://github.com/StephenJarso/secure_push
@@ -51,13 +48,11 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 - applycanary — Worktree-based deploy helper to create standalone releases and manage canary deployments.  
   https://github.com/StephenJarso/applycanary
 
-(If you prefer other projects showcased — e.g., Vouchsafe, pluely, or go-mastery — I can swap them and update descriptions pulled from their README/code.)
 
 ---
 
 ## Open-source contributions
 
-Selected merged PRs to repos you don't own — highlights of collaborative work and tests/feature contributions:
 
 - alibaba/open-code-review — test(session): add comprehensive test coverage for resume.go  
   https://github.com/alibaba/open-code-review/pull/590
@@ -98,9 +93,8 @@ Current streak:
 
 ## Contact & socials
 
-- LinkedIn: [Your LinkedIn profile here — replace with your URL](https://www.linkedin.com)
-- Email: stephenjacob815@gmail.com
-- Twitter: https://twitter.com/your_twitter (replace)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephenjarso/)
+- Email: (gmail)[stephenjacob815@gmail.com]
 
 ---
 
