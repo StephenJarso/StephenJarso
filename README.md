@@ -42,8 +42,8 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 - kinga — AI-powered anticipatory action trigger & activation engine (IGAD hackathon): converts early-warning thresholds into tracked, automatic actions over a resilient mesh.  
   https://github.com/StephenJarso/kinga
 
-- go-daraja — Go client library for Safaricom’s Daraja (M-Pesa) API: STK Push, C2B, B2C, B2B, and transaction status support.  
-  https://github.com/StephenJarso/go-daraja
+- applycanary — Worktree-based deploy helper to create standalone releases and manage canary deployments.  
+  https://github.com/StephenJarso/applycanary
 
 (If you prefer other projects showcased — e.g., Vouchsafe, pluely, or go-mastery — I can swap them and update descriptions pulled from their README/code.)
 
@@ -77,70 +77,6 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
   - GitHub mirror (open PR): cmd/compile: fix typographical errors in comments — https://github.com/golang/go/pull/80623
 
 (If you want me to surface a short one-line summary for each Gerrit change (what files were touched / intent), I can add those too.)
-
----
-
-## All merged pull requests (complete list from GitHub search)
-
-- applycanary — Worktree deploy app standalone release  
-  https://github.com/StephenJarso/applycanary/pull/2
-
-- Flying-Tea-Squad/chama-application — auth: implement auth service layer with SMS provider interface  
-  https://github.com/Flying-Tea-Squad/chama-application/pull/59
-
-- Flying-Tea-Squad/chama-application — auth: implement foundation layer for authentication  
-  https://github.com/Flying-Tea-Squad/chama-application/pull/56
-
-- go-mastery — Fixes  
-  https://github.com/StephenJarso/go-mastery/pull/2
-
-- go-daraja — feat(auth): implement OAuth access token generation  
-  https://github.com/StephenJarso/go-daraja/pull/1
-
-- alibaba/open-code-review — test(session): add comprehensive test coverage for resume.go  
-  https://github.com/alibaba/open-code-review/pull/590
-
-- thermoupwell — (repo PR)  
-  https://github.com/StephenJarso/thermoupwell/pull/1
-
-- go-mastery — Feature/expand phase 1  
-  https://github.com/StephenJarso/go-mastery/pull/1
-
-- karada — Fix punctuation in project title in README  
-  https://github.com/StephenJarso/karada/pull/3
-
-- secure_push — Feature/intercom token detection (multiple merged PRs)  
-  https://github.com/StephenJarso/secure_push/pull/7  
-  https://github.com/StephenJarso/secure_push/pull/6  
-  https://github.com/StephenJarso/secure_push/pull/5  
-  https://github.com/StephenJarso/secure_push/pull/4  
-  https://github.com/StephenJarso/secure_push/pull/3  
-  https://github.com/StephenJarso/secure_push/pull/2  
-  https://github.com/StephenJarso/secure_push/pull/1
-
-- soratble — Main / Feat/pagination  
-  https://github.com/StephenJarso/soratble/pull/2  
-  https://github.com/StephenJarso/soratble/pull/1
-
-- btrust-builders/first-open-source-contributions — Add stephenjarso to Contributors list  
-  https://github.com/btrust-builders/first-open-source-contributions/pull/172
-
-- social-network — Feat/events; fix import paths; dbpoolconfig  
-  https://github.com/StephenJarso/social-network/pull/4  
-  https://github.com/StephenJarso/social-network/pull/3  
-  https://github.com/StephenJarso/social-network/pull/2  
-  https://github.com/StephenJarso/social-network/pull/1
-
-- crossword — Feat / Logic/backtracking  
-  https://github.com/StephenJarso/crossword/pull/2  
-  https://github.com/StephenJarso/crossword/pull/1
-
-- codewithjarso/tudu — Main / UI  
-  https://github.com/codewithjarso/tudu/pull/6  
-  https://github.com/codewithjarso/tudu/pull/5
-
-- HilaryOkello/whichbid — Add data models  
-  https://github.com/HilaryOkello/whichbid/pull/2
 
 ---
 
