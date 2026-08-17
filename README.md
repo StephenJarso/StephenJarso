@@ -1,6 +1,6 @@
 # Hi — I'm Stephen Jarso 👋  
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![coding-animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2b2b2b&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Integrating+payments;Open+to+work+%26+collaborations)
 
 Skilled software engineer focusing on backend systems, payments integrations, and developer tools. Actively building production-ready projects in Go and TypeScript; currently open to full-time roles and collaborative open-source work — let’s build something useful together.
 
@@ -16,16 +16,22 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white)
 
 ### Frameworks & tools
-![Tauri](https://img.shields.io/badge/Tauri-000000?logo=tauri&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![M-Pesa / Daraja](https://img.shields.io/badge/Daraja-MPesa-ff69b4)
-![Lightning / LND](https://img.shields.io/badge/Lightning-LND-00c3ff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-> Note: I detected these tools and frameworks explicitly in your repos (Tauri, Flask, Daraja integrations, LND). If you want Flutter, Dart, Firebase, Redis, etc. shown here as "also familiar with", tell me and I’ll add them as optional badges.
+> Note: I added the requested tech badges. If you want any colors/titles adjusted or to reorder/group them differently, tell me and I’ll update.
 
 ---
 
@@ -74,9 +80,6 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
   - 807420: cmd/compile: fix typographical errors in comments — https://go-review.googlesource.com/c/go/+/807420
   - 807600: go/types, cmd/compile: use slices and cmp instead of sort — https://go-review.googlesource.com/c/go/+/807600
   - 799721: cmd/compile: fix typo in arm64 ssa comment — https://go-review.googlesource.com/c/go/+/799721
-  - GitHub mirror (open PR): cmd/compile: fix typographical errors in comments — https://github.com/golang/go/pull/80623
-
-(If you want me to surface a short one-line summary for each Gerrit change (what files were touched / intent), I can add those too.)
 
 ---
 
@@ -88,6 +91,9 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
 Activity graph:  
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=StephenJarso&theme=react-dark)
 
+Current streak:  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=StephenJarso&theme=react-dark)
+
 ---
 
 ## Contact & socials
@@ -98,12 +104,3 @@ Activity graph:
 
 ---
 
-Extras / visual enhancements
-
-- Added a small animated GIF under the header for a friendly intro. GIF can be swapped for a custom animation or SVG.
-- Stats and top-langs widgets are included and update automatically.
-
-If you'd like, I can:
-- Replace the LinkedIn/Twitter placeholders with exact links if you provide them.
-- Swap the header GIF for a custom hero SVG or a short demo GIF for a featured project.
-- Add animated SVG badges or a subtle gradient hero banner.
