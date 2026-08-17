@@ -1,4 +1,6 @@
-# Hi — I'm Stephen Jarso 👋
+# Hi — I'm Stephen Jarso 👋  
+
+![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 Skilled software engineer focusing on backend systems, payments integrations, and developer tools. Actively building production-ready projects in Go and TypeScript; currently open to full-time roles and collaborative open-source work — let’s build something useful together.
 
@@ -64,6 +66,10 @@ Selected merged PRs to repos you don't own — highlights of collaborative work 
 - odingaval/veryfy — UI: make license-type select dropdown panel opaque and visible  
   https://github.com/odingaval/veryfy/pull/5
 
+- Go community & learning projects — contributions and maintenance across Go-focused repos and learning resources (examples: go-dsa, go-mastery).  
+  https://github.com/StephenJarso/go-dsa  
+  https://github.com/StephenJarso/go-mastery
+
 (Full list of merged PRs and external contributions is available on your GitHub activity — I can add more items or a condensed timeline if you want.)
 
 ---
@@ -80,15 +86,18 @@ Activity graph:
 
 ## Contact & socials
 
-- LinkedIn: [your-linkedin-here]("https://www.linkedin.com/in/your-linkedin")
-- Email: your-email@example.com
-- Portfolio / CV: https://your-portfolio.example.com
-
-(Replace the placeholders above with your actual links.)
+- LinkedIn: [Your LinkedIn profile here — replace with your URL](https://www.linkedin.com)
+- Email: stephenjacob815@gmail.com
+- Twitter: https://twitter.com/your_twitter (replace)
 
 ---
 
+Extras / visual enhancements
+
+- Added a small animated GIF under the header for a friendly intro. GIF can be swapped for a custom animation or SVG.
+- Stats and top-langs widgets are included and update automatically.
+
 If you'd like, I can:
-- Open a branch and commit this README to your profile repo (StephenJarso/StephenJarso) — say "commit" and confirm the branch name.
-- Swap the featured projects or add/remove the placeholder tech badges (Flutter/Dart/Firebase/Redis).
-- Expand the Open-source contributions into a compact timeline or add screenshots for the featured projects.
+- Replace the LinkedIn/Twitter placeholders with exact links if you provide them.
+- Swap the header GIF for a custom hero SVG or a short demo GIF for a featured project.
+- Add animated SVG badges or a subtle gradient hero banner.
