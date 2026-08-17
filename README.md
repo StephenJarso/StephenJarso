@@ -83,9 +83,6 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)
 
-Contribution graph:  
-![Contribution Graph](https://ghchart.rshah.org/StephenJarso)
-
 Current streak:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=StephenJarso&theme=react-dark)
 
