@@ -1,12 +1,12 @@
 # Hi — I'm Stephen Jarso 👋
 
-![coding-animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B2B2B&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Payments+%26+security+tooling;Open-source+contributor)
+![coding-animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B2B2B&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Pay[...]
 
 ![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%2F%20contract-1D9E75?style=flat-square)
 
-Software engineer with 5+ years building production systems — from a fintech platform handling real member savings and loans to security tooling and payment infrastructure used in emerging markets. I care about systems that stay correct under load and code that's boring to operate in the best way.
+Software engineer with 5+ years building production systems — from a fintech platform handling real member savings and loans to security tooling and payment infrastructure used in emerging market[...]
 
-**Right now:** shipping `secure_push` (a commit-time security scanner) and `karada` (a Lightning Network escrow engine for emerging-market commerce), while contributing upstream to the Go source tree. Open to full-time, contract, or collaborative opportunities — remote-friendly, anywhere.
+**Right now:** shipping `secure_push` (a commit-time security scanner) and `karada` (a Lightning Network escrow engine for emerging-market commerce), while contributing upstream to the Go source tr[...]
 
 - 🔧 Backend engineering, payment integrations, security tooling, resilient distributed systems
 - 🧩 Full-stack when the project needs it — Next.js, React, Vue on the frontend
@@ -47,8 +47,8 @@ Software engineer with 5+ years building production systems — from a fintech p
 ## Featured projects
 
 - **[secure_push](https://github.com/StephenJarso/secure_push)** — Developer-first security scanner that blocks secrets, misconfigurations, and unsafe AI-generated code at commit time and in CI.
-- **[karada](https://github.com/StephenJarso/karada)** — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles to lock commitment funds in-flight for emerging-market commerce.
-- **[kinga](https://github.com/StephenJarso/kinga)** — AI-powered anticipatory action trigger & activation engine built for the IGAD hackathon; converts early-warning thresholds into tracked, automatic actions over a resilient mesh.
+- **[karada](https://github.com/StephenJarso/karada)** — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles to lock commitment funds in-flight for emerging[...]
+- **[kinga](https://github.com/StephenJarso/kinga)** — AI-powered anticipatory action trigger & activation engine built for the IGAD hackathon; converts early-warning thresholds into tracked, au[...]
 - **[applycanary](https://github.com/StephenJarso/applycanary)** — Worktree-based deploy helper to create standalone releases and manage canary deployments.
 
 ---
@@ -62,12 +62,21 @@ Software engineer with 5+ years building production systems — from a fintech p
 
 **Other merged PRs**
 - [alibaba/open-code-review #590](https://github.com/alibaba/open-code-review/pull/590) — test(session): comprehensive test coverage for `resume.go`
-- [Flying-Tea-Squad/chama-application #56](https://github.com/Flying-Tea-Squad/chama-application/pull/56) & [#59](https://github.com/Flying-Tea-Squad/chama-application/pull/59) — auth: SMS-provider auth service layer
+- [Flying-Tea-Squad/chama-application #56](https://github.com/Flying-Tea-Squad/chama-application/pull/56) & [#59](https://github.com/Flying-Tea-Squad/chama-application/pull/59) — auth: SMS-provi[...]
 - [odingaval/veryfy #5](https://github.com/odingaval/veryfy/pull/5) — UI: fix license-type dropdown visibility
 - [firstcontributions/first-contributions #119079](https://github.com/firstcontributions/first-contributions/pull/119079) — added to Contributors list
 
 **Go learning & tooling**
 - [go-dsa](https://github.com/StephenJarso/go-dsa) · [go-mastery](https://github.com/StephenJarso/go-mastery)
+
+---
+
+## Profile Summary
+
+[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
