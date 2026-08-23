@@ -31,8 +31,6 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-> Note: I added the requested tech badges. If you want any colors/titles adjusted or to reorder/group them differently, tell me and I’ll update.
-
 ---
 
 ## Featured projects
