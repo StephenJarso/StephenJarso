@@ -1,20 +1,11 @@
-# Hi — I'm Stephen Jarso 👋
+# Hi — I'm Stephen Jarso 👋  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2b2b2b&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Payments+%26+developer+tools;Open+to+opportunities" alt="typing" />
-</p>
+![coding-animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2b2b2b&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;I[...] 
 
-A software engineer focused on production-ready backend systems, payments integrations, and developer tools. I build resilient services in Go and TypeScript and contribute to open-source projects. Currently open to full-time and contract opportunities.
+Skilled software engineer focusing on backend systems, payments integrations, and developer tools. Actively building production-ready projects in Go and TypeScript; currently open to full-time role[...] 
 
-- Areas of focus: backend engineering, payment integrations, security tooling, resilient distributed systems
-
----
-
-## Highlights
-
-- Strong track record building backend services and payment integrations.
-- Contributor to the Go project and several community repos.
-- Author of production-ready tooling used in CI/workflows and developer environments.
+- Currently job hunting and open to contract or collaborative opportunities.
+- Strong focus: backend engineering, payment integrations, security tooling, and resilient distributed systems.
 
 ---
 
@@ -47,13 +38,13 @@ A software engineer focused on production-ready backend systems, payments integr
 - secure_push — Developer-first security scanner that blocks secrets, misconfigurations, and unsafe AI-generated code at commit time and in CI.  
   https://github.com/StephenJarso/secure_push
 
-- karada — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles.  
+- karada — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles to lock commitment funds in-flight for emerging-market commerce.  
   https://github.com/StephenJarso/karada
 
-- kinga — Anticipatory action trigger & activation engine (IGAD hackathon).  
+- kinga — AI-powered anticipatory action trigger & activation engine (IGAD hackathon): converts early-warning thresholds into tracked, automatic actions over a resilient mesh.  
   https://github.com/StephenJarso/kinga
 
-- applycanary — Worktree-based deploy helper for standalone releases and canary deployments.  
+- applycanary — Worktree-based deploy helper to create standalone releases and manage canary deployments.  
   https://github.com/StephenJarso/applycanary
 
 ---
@@ -63,11 +54,11 @@ A software engineer focused on production-ready backend systems, payments integr
 - alibaba/open-code-review — test(session): add comprehensive test coverage for resume.go  
   https://github.com/alibaba/open-code-review/pull/590
 
-- Flying-Tea-Squad/chama-application — auth: implemented foundation & SMS-provider auth service layer (two merged PRs)  
+- Flying-Tea-Squad/chama-application — auth: implement foundation & SMS-provider auth service layer (two merged PRs)  
   https://github.com/Flying-Tea-Squad/chama-application/pull/56  
   https://github.com/Flying-Tea-Squad/chama-application/pull/59
 
-- firstcontributions/first-contributions — Add Stephen Jarso to Contributors list  
+- firstcontributions/first-contributions — Add Stephen Jarso to Contributors list (helping beginners contribute)  
   https://github.com/firstcontributions/first-contributions/pull/119079
 
 - odingaval/veryfy — UI: make license-type select dropdown panel opaque and visible  
@@ -94,8 +85,6 @@ Current streak:
 ## Contact & socials
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephenjarso/)
-- Email: [stephenjacob815@gmail.com](mailto:stephenjacob815@gmail.com)
+- Email: [gmail](stephenjacob815@gmail.com)
 
 ---
-
-Last updated: 2026-08-23
