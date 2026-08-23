@@ -1,77 +1,81 @@
-# Hi — I'm Stephen Jarso 👋  
+# Hi — I'm Stephen Jarso 👋
 
-![coding-animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2b2b2b&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Integrating+payments;Open+to+work+%26+collaborations)
+A software engineer focused on production-ready backend systems, payments integrations, and developer tools. I build resilient services in Go and TypeScript and contribute to open-source projects. Currently open to full-time and contract opportunities.
 
-Skilled software engineer focusing on backend systems, payments integrations, and developer tools. Actively building production-ready projects in Go and TypeScript; currently open to full-time roles and collaborative open-source work — let’s build something useful together.
+- Areas of focus: backend engineering, payment integrations, security tooling, resilient distributed systems
+- Open to: full-time roles, contract work, and technical collaborations
 
-- Currently job hunting and open to contract or collaborative opportunities.
-- Strong focus: backend engineering, payment integrations, security tooling, and resilient distributed systems.
+---
+
+## Table of contents
+
+- [Highlights](#highlights)  
+- [Tech stack](#tech-stack)  
+- [Featured projects](#featured-projects)  
+- [Open-source contributions](#open-source-contributions)  
+- [GitHub stats](#github-stats)  
+- [Contact](#contact)
+
+---
+
+## Highlights
+
+- Strong track record building backend services and payment integrations.
+- Contributor to the Go project and several community repos.
+- Author of production-ready tooling used in CI/workflows and developer environments.
 
 ---
 
 ## Tech stack
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white)
+Languages: Go · TypeScript · JavaScript · Python · Dart · Java · Shell
 
-### Frameworks & tools
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+Tools & frameworks: Next.js · FastAPI · Flutter · Firebase · SQLite · MySQL · PostgreSQL · Docker · Git
+
+(Consider pinning the repos below on your profile to match these technologies.)
 
 ---
 
 ## Featured projects
 
 - secure_push — Developer-first security scanner that blocks secrets, misconfigurations, and unsafe AI-generated code at commit time and in CI.  
-  https://github.com/StephenJarso/secure_push
+  https://github.com/StephenJarso/secure_push  
+  (CI-first secret & policy scanning; Go; integrates with git hooks/CI.)
 
-- karada — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles to lock commitment funds in-flight for emerging-market commerce.  
-  https://github.com/StephenJarso/karada
+- karada — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles.  
+  https://github.com/StephenJarso/karada  
+  (Escrow + LN HODL invoices for emerging-market commerce; includes docs for deploying.)
 
-- kinga — AI-powered anticipatory action trigger & activation engine (IGAD hackathon): converts early-warning thresholds into tracked, automatic actions over a resilient mesh.  
-  https://github.com/StephenJarso/kinga
+- kinga — Anticipatory action trigger & activation engine (IGAD hackathon).  
+  https://github.com/StephenJarso/kinga  
+  (AI-enabled activation engine for early-warning thresholds.)
 
-- applycanary — Worktree-based deploy helper to create standalone releases and manage canary deployments.  
+- applycanary — Worktree-based deploy helper for standalone releases and canary deployments.  
   https://github.com/StephenJarso/applycanary
+
+Notes
+- Add a short "Status" line per project (e.g., Active / Archived / WIP).
+- Where possible, add a one-line "try it" or "demo / quickstart" to each project's README.
 
 ---
 
 ## Open-source contributions
 
+Selected contributions and community work:
+
 - alibaba/open-code-review — test(session): add comprehensive test coverage for resume.go  
   https://github.com/alibaba/open-code-review/pull/590
 
-- Flying-Tea-Squad/chama-application — auth: implement foundation & SMS-provider auth service layer (two merged PRs)  
+- Flying-Tea-Squad/chama-application — implemented auth & SMS-provider service layer (two PRs)  
   https://github.com/Flying-Tea-Squad/chama-application/pull/56  
   https://github.com/Flying-Tea-Squad/chama-application/pull/59
 
-- firstcontributions/first-contributions — Add Stephen Jarso to Contributors list (helping beginners contribute)  
+- firstcontributions/first-contributions — added to Contributors list  
   https://github.com/firstcontributions/first-contributions/pull/119079
 
-- odingaval/veryfy — UI: make license-type select dropdown panel opaque and visible  
-  https://github.com/odingaval/veryfy/pull/5
+- golang/go — multiple Gerrit patches merged (examples linked in project history)
 
-- Go community & learning projects — contributions and maintenance across Go-focused repos and learning resources (examples: go-dsa, go-mastery).  
-  https://github.com/StephenJarso/go-dsa  
-  https://github.com/StephenJarso/go-mastery
-
-- golang/go — contributions merged to the Go source tree (Gerrit). Notable merged changes authored by you:
-  - 807420: cmd/compile: fix typographical errors in comments — https://go-review.googlesource.com/c/go/+/807420
-  - 807600: go/types, cmd/compile: use slices and cmp instead of sort — https://go-review.googlesource.com/c/go/+/807600
-  - 799721: cmd/compile: fix typo in arm64 ssa comment — https://go-review.googlesource.com/c/go/+/799721
+(Consider linking a CONTRIBUTORS, HIGHLIGHTS, or NOTES file with more context for each contribution.)
 
 ---
 
@@ -80,11 +84,26 @@ Skilled software engineer focusing on backend systems, payments integrations, an
 Current streak:  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=StephenJarso&theme=react-dark)
 
----
-
-## Contact & socials
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephenjarso/)
-- Email: [gmail](stephenjacob815@gmail.com)
+(Optionally add `github-readme-stats` cards for top languages / overall contributions.)
 
 ---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/stephenjarso/  
+- Email: [stephenjacob815@gmail.com](mailto:stephenjacob815@gmail.com)
+
+---
+
+## Suggestions & files to add
+
+- Add LICENSE (if you intend to open-source your repos) — e.g., MIT.
+- Add CONTRIBUTING.md and CODE_OF_CONDUCT.md for projects you want outside contributors to use.
+- Add short Getting Started / Quickstart sections in each featured project's README.
+- Add project status badges (Active / WIP / Archived) and CI/build badges where applicable.
+- Make sure all external image URLs (shields / SVGs) are reachable and not truncated.
+- Consider adding a short photo or SVG avatar (optional) and alt text for accessibility.
+
+---
+
+Last updated: 2026-08-23
