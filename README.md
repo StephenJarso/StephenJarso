@@ -1,95 +1,110 @@
-# Hi — I'm Stephen Jarso 👋
+# Hi, I'm Stephen Jarso 👋
 
-![coding-animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B2B2B&width=700&height=50&center=true&vCenter=true&lines=Building+reliable+backends;Pay[...]
+## Backend engineer building dependable systems for real-world problems
 
-![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%2F%20contract-1D9E75?style=flat-square)
+I design and ship production-minded software across backend engineering, developer tooling, payments, security, and AI-assisted workflows. My strongest work sits at the intersection of reliable APIs, resilient data systems, and products that help people make better decisions.
 
-Software engineer with 5+ years building production systems — from a fintech platform handling real member savings and loans to security tooling and payment infrastructure used in emerging market[...]
+> **Currently focused on:** ApplyCanary, a job-search and interview assistant; secure_push, a commit-time security scanner; and Karada, a Lightning Network escrow engine for emerging-market commerce.
 
-**Right now:** shipping `secure_push` (a commit-time security scanner) and `karada` (a Lightning Network escrow engine for emerging-market commerce), while contributing upstream to the Go source tr[...]
+[![Open to work](https://img.shields.io/badge/Open%20to-full--time%20%2F%20contract-1D9E75?style=flat-square)](mailto:stephenjacob815@gmail.com)
 
-- 🔧 Backend engineering, payment integrations, security tooling, resilient distributed systems
-- 🧩 Full-stack when the project needs it — Next.js, React, Vue on the frontend
-- 📬 Always happy to talk shop, review a PR, or hear about interesting problems
-
----
-
-## Tech stack
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white)
-
-**Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-**Data & infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- 🔧 Backend systems, payment integrations, security tooling, and distributed workflows
+- 🧠 AI products with human review, truthfulness checks, and useful fallbacks
+- 🧩 Full-stack when needed: React, Next.js, Vue, and Flutter
+- 🌍 Based in Nairobi, Kenya · open to remote opportunities and interesting collaborations
 
 ---
 
-## Featured projects
+## Featured project: ApplyCanary
 
-- **[secure_push](https://github.com/StephenJarso/secure_push)** — Developer-first security scanner that blocks secrets, misconfigurations, and unsafe AI-generated code at commit time and in CI.
-- **[karada](https://github.com/StephenJarso/karada)** — Programmable escrow engine using Lightning Network HODL invoices and courier data oracles to lock commitment funds in-flight for emerging[...]
-- **[kinga](https://github.com/StephenJarso/kinga)** — AI-powered anticipatory action trigger & activation engine built for the IGAD hackathon; converts early-warning thresholds into tracked, au[...]
-- **[applycanary](https://github.com/StephenJarso/applycanary)** — Worktree-based deploy helper to create standalone releases and manage canary deployments.
+[![ApplyCanary](https://img.shields.io/badge/Live%20demo-Visit%20ApplyCanary-1D9E75?style=flat-square)](https://frontend-xi-seven-1v1qypqssw.vercel.app) [![Source](https://img.shields.io/badge/Source-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/StephenJarso/applycanary)
+
+**ApplyCanary** is an agentic job-search assistant that finds and scores roles, truthfully tailors applications, and helps candidates practise interviews out loud. It is designed around persistent memory so coaching improves across sessions instead of resetting every time.
+
+### The engineering story
+
+- **Discovery:** Connects to company ATS boards and aggregators, deduplicates cross-posted roles, and searches for roles based on a candidate's actual titles, skills, and GitHub evidence.
+- **Grounded applications:** Combines deterministic filters with LLM reasoning, then runs a truth-check pass so generated CV claims remain backed by real experience.
+- **Voice interview coaching:** Uses Amazon Transcribe and Polly when configured, with browser speech fallbacks for local development.
+- **Durable memory:** Stores interview state and semantic memories in CockroachDB using native vectors and distributed indexes.
+- **Resilient operations:** Runs with AWS services in production but degrades gracefully to local inference, browser speech, SQLite, and heuristic behavior during development.
+
+**Impact:** This architecture turns a fragmented job hunt into a repeatable, evidence-based workflow while keeping safety boundaries in code rather than relying only on prompts.
+
+**Stack:** Python, FastAPI, React, TypeScript, CockroachDB, SQLModel, AWS Bedrock, Polly, Transcribe, S3, ECS/Fargate, Docker, Vercel.
+
+[Read the architecture and setup guide →](https://github.com/StephenJarso/applycanary#readme)
+
+---
+
+## Other selected work
+
+- **[secure_push](https://github.com/StephenJarso/secure_push)** — Developer-first security scanner that catches secrets, risky configuration, and unsafe AI-generated code at commit time and in CI.
+- **[karada](https://github.com/StephenJarso/karada)** — Programmable Lightning Network escrow engine using HODL invoices and courier-data oracles for emerging-market commerce.
+- **[kinga](https://github.com/StephenJarso/kinga)** — Anticipatory-action trigger and activation engine that turns early-warning thresholds into tracked, auditable action.
+
+---
+
+## Technical toolkit
+
+| Area | Tools |
+| --- | --- |
+| **Backend** | Go, Python, FastAPI, REST APIs, background workers, distributed systems |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Vue, Flutter |
+| **Data** | PostgreSQL, CockroachDB, MySQL, SQLite, Firebase, vector search |
+| **Cloud & delivery** | AWS, ECS/Fargate, S3, Docker, Vercel, GitHub Actions |
+| **AI & voice** | Bedrock, LLM provider fallbacks, embeddings, Amazon Polly, Transcribe |
+| **Quality & security** | Pytest, Ruff, CI/CD, secret scanning, truthfulness gates, least-privilege IAM |
+
+---
+
+## Case study: building ApplyCanary around trust
+
+**Challenge:** Job seekers need speed, but automated applications can easily produce generic or inaccurate claims.
+
+**Approach:** I split the pipeline into deterministic checks and model-assisted reasoning. Candidate evidence is used to ground tailoring, and a separate truth-check gate blocks unsupported claims before an application can proceed. Interview sessions are persisted as both transactional state and semantic memory, allowing coaching to build over time.
+
+**Result:** A working MVP with job discovery, scoring, resume tailoring, interview coaching, email alerts, persistent memory, local fallbacks, and an explicit manual-review boundary for submission. The system currently includes a broad automated test suite covering auth, ATS flows, deduplication, truth checking, vector search, memory, discovery, email, and LLM fallback behavior.
 
 ---
 
 ## Open-source contributions
 
-**golang/go** — merged changes to the Go source tree (via Gerrit):
-- [CL 807420](https://go-review.googlesource.com/c/go/+/807420) — `cmd/compile`: fix typographical errors in comments
-- [CL 807600](https://go-review.googlesource.com/c/go/+/807600) — `go/types`, `cmd/compile`: use slices and cmp instead of sort
-- [CL 799721](https://go-review.googlesource.com/c/go/+/799721) — `cmd/compile`: fix typo in arm64 ssa comment
+### Go source tree
 
-**Other merged PRs**
-- [alibaba/open-code-review #590](https://github.com/alibaba/open-code-review/pull/590) — test(session): comprehensive test coverage for `resume.go`
-- [Flying-Tea-Squad/chama-application #56](https://github.com/Flying-Tea-Squad/chama-application/pull/56) & [#59](https://github.com/Flying-Tea-Squad/chama-application/pull/59) — auth: SMS-provi[...]
-- [odingaval/veryfy #5](https://github.com/odingaval/veryfy/pull/5) — UI: fix license-type dropdown visibility
-- [firstcontributions/first-contributions #119079](https://github.com/firstcontributions/first-contributions/pull/119079) — added to Contributors list
+- [CL 807420](https://go-review.googlesource.com/c/go/+/807420) — `cmd/compile`: corrected typographical errors in comments
+- [CL 807600](https://go-review.googlesource.com/c/go/+/807600) — `go/types`, `cmd/compile`: used slices and `cmp` instead of `sort`
+- [CL 799721](https://go-review.googlesource.com/c/go/+/799721) — corrected an arm64 SSA comment
 
-**Go learning & tooling**
-- [go-dsa](https://github.com/StephenJarso/go-dsa) · [go-mastery](https://github.com/StephenJarso/go-mastery)
+### Other merged work
 
----
-
-## Profile Summary
-
-[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [alibaba/open-code-review #590](https://github.com/alibaba/open-code-review/pull/590) — comprehensive `resume.go` test coverage
+- [Flying-Tea-Squad/chama-application #56](https://github.com/Flying-Tea-Squad/chama-application/pull/56) and [#59](https://github.com/Flying-Tea-Squad/chama-application/pull/59) — SMS-provider authentication work
+- [odingaval/veryfy #5](https://github.com/odingaval/veryfy/pull/5) — license-type dropdown visibility fix
+- [firstcontributions/first-contributions #119079](https://github.com/firstcontributions/first-contributions/pull/119079) — contributor listing update
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&theme=react&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&theme=react&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=StephenJarso&theme=react-dark&hide_border=true)
+[![Profile details](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Repositories by language](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most committed language](https://raw.githubusercontent.com/StephenJarso/StephenJarso/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenJarso&show_icons=true&theme=react&hide_border=true&rank_icon=github)](https://github.com/StephenJarso)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenJarso&layout=compact&theme=react&hide_border=true)](https://github.com/StephenJarso)
 
 ---
 
-## Contact
+## Contact and availability
+
+I am open to backend, platform, security, and AI-product opportunities, including remote roles and contract collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenjarso/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stephenjacob815@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/StephenJarso)
+
+---
+
+<sub>Profile statistics are refreshed automatically from genuine repository activity. Automation in this repository only commits when generated assets actually change; it does not create artificial activity.</sub>
