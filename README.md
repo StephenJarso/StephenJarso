@@ -18,7 +18,7 @@ Based in **Nairobi, Kenya** · open to remote opportunities and meaningful colla
 
 ### [ApplyCanary](https://github.com/StephenJarso/applycanary)
 
-[![Live demo](https://img.shields.io/badge/Live%20demo-Visit%20app-16a085?style=flat-square)](https://frontend-xi-seven-1v1qypqssw.vercel.app)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Visit%20app-16a085?style=flat-square)](https://applycanary.onrender.com)
 
 An agentic job-search assistant that:
 
